@@ -47,25 +47,25 @@ export default function Contact() {
     {
       icon: Mail,
       title: "Email Us",
-      content: "hello@sicatdigital.com",
+      content: "sicatdigital365@gmail.com",
       description: "Send us an email anytime!"
     },
     {
       icon: Phone,
       title: "Call Us",
-      content: "+1 (555) 123-4567",
-      description: "Mon-Fri from 8am to 5pm"
+      content: "+94 77 910 6581",
+      description: "Mon-Sun from 8am - 8pm"
     },
     {
       icon: MapPin,
       title: "Visit Us",
-      content: "123 Business District, City, State 12345",
-      description: "Come say hello at our office"
+      content: "www.sicatdigital.com",
+      description: "visit our website for more info"
     },
     {
       icon: Clock,
       title: "Working Hours",
-      content: "Mon - Fri: 8am - 5pm",
+      content: "Mon - Sun: 8am - 9pm",
       description: "Weekend support available"
     }
   ];
